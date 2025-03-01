@@ -1,1 +1,1 @@
-This is to test adding stuff in branch
+I am testing adding stuff during merge
